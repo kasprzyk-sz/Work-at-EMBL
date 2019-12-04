@@ -64,5 +64,10 @@
     "url": "https://github.com/visual-framework/vf-eleventy/issues"
   },
   "homepage": "https://github.com/visual-framework/vf-eleventy#readme",
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "@visual-framework/embl-logo": "^1.0.0-alpha.8",
+    "@visual-framework/vf-breadcrumbs": "^1.0.0-beta.8",
+    "@visual-framework/vf-utility-classes": "^1.0.0-beta.9"
+  }
 }
